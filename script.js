@@ -13,8 +13,8 @@ const images = [
     {src: "image11.jpg", id: "img11", alt: "圖片11"},
     {src: "image12.jpg", id: "img12", alt: "圖片12"},
     {src: "image13.jpg", id: "img13", alt: "圖片13"},
-    {src: "image14.jpg", id: "img14", alt: "圖片14"},
-    {src: "image15.jpg", id: "img15", alt: "圖片15"}
+            {src: "https://raw.githubusercontent.com/A-Fu-1979/my-repo/master/Crti-rate02.png", id: "img14", alt: "圖片14"},
+            {src: "https://raw.githubusercontent.com/A-Fu-1979/774images/master/Hero-Increase-ATK01.png", id: "img15", alt: "圖片15"}
 ];
 
 // 遍歷陣列並設置圖片的src和alt
